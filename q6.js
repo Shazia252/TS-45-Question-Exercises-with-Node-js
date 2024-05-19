@@ -1,0 +1,15 @@
+"use strict";
+let a = 6;
+let b = 2;
+console.log(a + b);
+let c = 10;
+let d = 2;
+console.log(c - d);
+let addition = 6 + 2;
+console.log("addition", addition);
+let sub = 10 - 2;
+console.log("subtraction $ (sub)");
+let multiplication = 4 * 2;
+console.log("multipilication", multiplication);
+let division = 16 / 2;
+console.log("Division", division);
